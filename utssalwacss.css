@@ -146,16 +146,16 @@ button{
 	box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
 }
 .card1{
-	background-image: url(./imagess/ofholo.jpeg);
+	background-image: url(./webstatis/imagess/ofholo.JPEG);
 }
 .card2{
-	background-image: url(/webstatis/imagess/abu1.JPEG);
+	background-image: url(./webstatis/imagess/abu1.JPEG);
 }
 .card3{
-	background-image: url(/webstatis/imagess/abu2.JPEG);
+	background-image: url(./webstatis/imagess/abu2.JPEG);
 }
 .card4{
-	background-image: url(/webstatis/imagess/abu3.JPEG);
+	background-image: url(./webstatis/imagess/abu3.JPEG);
 	color: #E2E2DF;
 }
 .card:hover{
