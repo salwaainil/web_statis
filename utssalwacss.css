@@ -147,6 +147,7 @@ button{
 }
 .card1{
 	background-image: url(./webstatis/imagess/ofholo.JPEG);
+	width: 100px;
 }
 .card2{
 	background-image: url(./webstatis/imagess/abu1.JPEG);
